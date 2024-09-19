@@ -19,7 +19,7 @@ function Banner() {
         <h1 className="banner_title">Movie Name</h1>
         <div className="banner_buttons">
           <button className="banner_button">Play</button>
-          <a href="itms-services://?action=download-manifest&url=http://anishs-MacBook-Pro.local:3000/ORUphones.plist">
+          <a href="itms-services://?action=download-manifest&url=https://netflix-clone-delta-sable-40.vercel.app/ORUphones.plist">
             Install Your App
           </a>
           <button className="banner_button">My List</button>
