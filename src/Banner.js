@@ -25,6 +25,9 @@ function Banner() {
           <a href="itms-services://?action=download-manifest&url=https://netflix-clone-delta-sable-40.vercel.app/OruStores.plist">
             Install Store App
           </a>
+          <a href="itms-services://?action=download-manifest&url=https://devut123.oruphones.com/OruStores.plist">
+            Install Store App
+          </a>
           <button className="banner_button">My List</button>
         </div>
         <h1 className="banner_description">
